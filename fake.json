@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "username": "vietphu",
+      "email": "vietphu@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "asdfasdf",
+      "email": "a@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "asdfsdafadfs",
+      "email": "ab@gmail.com",
+      "id": 5
+    }
+  ]
+}

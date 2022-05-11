@@ -1,0 +1,14 @@
+{
+    "name": "demojson",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "json-server": "^0.17.0",
+        "nodemon": "^2.0.16"
+    },
+    "scripts": {
+        "start": "nodemon server.js",
+        "server": "json-server --watch fake.json"
+    }
+}
